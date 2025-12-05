@@ -2,3 +2,6 @@ streamlit
 firebase-admin
 streamlit-drawable-canvas
 Pillow
+pyrebase4
+plotly
+pandas
